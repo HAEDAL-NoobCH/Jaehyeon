@@ -22,7 +22,6 @@ const EventPractice = () => {
 
     return (
         
-
         <div>
             <input type="text" name="username" value={username} onChange={
                 onChangeUsername
